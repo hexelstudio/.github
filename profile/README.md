@@ -1,16 +1,19 @@
-# Hexel Studio
+# Hexel Studio — Company Overview
 
-Hexel Studio is a platform for designing, orchestrating, and deploying AI-native systems powered by autonomous agents. It provides a unified foundation for building complex automation workflows without stitching together fragmented tools or relying on brittle, ad-hoc integrations.
+Hexel Studio is an AI engineering company focused on building production-grade systems powered by autonomous agents. We help teams automate complex workflows, integrate intelligence into their operations, and deploy AI solutions that perform reliably at scale.
 
-Hexel agents are modular, tool-enabled, and capable of coordinating through structured messages. This enables the creation of workflows that are resilient, extensible, and maintainable — from single-agent tasks to distributed multi-agent systems.
+We develop a modular agent platform that enables businesses to move beyond simple prompts or prototypes. Our technology allows AI agents to collaborate, use tools, access data, and operate consistently across cloud or hybrid environments.
 
-## Core Principles
+## What We Do
 
-- **Modularity** — agents, tools, memory, and orchestration are cleanly separated.  
-- **Extensibility** — integrate APIs, connectors, databases, vector stores, or custom tools.  
-- **Reliability** — built-in governance, observability, logging, isolation, and retries.  
-- **Scalability** — run agents locally, in containers, or across cloud and edge environments.
+- **Agent Infrastructure**  
+  A stable foundation for running and orchestrating AI agents across different environments.
 
-Hexel Studio aims to standardize how AI systems are engineered by providing a coherent, production-ready architecture for agentic applications.
+- **Vertical AI Solutions**  
+  Pre-built agents for enterprise use cases such as compliance, audits, knowledge management, and workflow automation.
 
-**A structured operating layer for the agent-driven future.**
+- **Agent Cloud & Marketplace**  
+  A unified environment for deploying, managing, and scaling agent-based applications.
+
+At Hexel Studio, we are building the next layer of AI-native software —  
+**systems where autonomous agents handle real work, at real scale, with real reliability.**
