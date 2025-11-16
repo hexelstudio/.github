@@ -1,4 +1,4 @@
-# Hexel Studio — Company Overview
+# Hexel Studio
 
 Hexel Studio is an AI engineering company focused on building production-grade systems powered by autonomous agents. We help teams automate complex workflows, integrate intelligence into their operations, and deploy AI solutions that perform reliably at scale.
 
