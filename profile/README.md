@@ -1,24 +1,16 @@
 # Hexel Studio
 
-**Hexel Studio** is a modular platform for building, deploying, and scaling AI-native workflows using autonomous agents. Designed for developers, researchers, and teams, Hexel lets you automate complex tasks with collaborative, no-boilerplate agents — all with modern tooling and full extensibility.
+Hexel Studio is a platform for designing, orchestrating, and deploying AI-native systems powered by autonomous agents. It provides a unified foundation for building complex automation workflows without stitching together fragmented tools or relying on brittle, ad-hoc integrations.
 
-> Build AI workflows that actually ship. No monoliths. No Frankenstein stacks. Just agents that work together.
+Hexel agents are modular, tool-enabled, and capable of coordinating through structured messages. This enables the creation of workflows that are resilient, extensible, and maintainable — from single-agent tasks to distributed multi-agent systems.
 
----
+## Core Principles
 
-## What is Hexel Studio?
+- **Modularity** — agents, tools, memory, and orchestration are cleanly separated.  
+- **Extensibility** — integrate APIs, connectors, databases, vector stores, or custom tools.  
+- **Reliability** — built-in governance, observability, logging, isolation, and retries.  
+- **Scalability** — run agents locally, in containers, or across cloud and edge environments.
 
-Hexel Studio is a flexible framework for designing and orchestrating **AI agents** capable of:
+Hexel Studio aims to standardize how AI systems are engineered by providing a coherent, production-ready architecture for agentic applications.
 
-* **Automating multi-step workflows**
-* **Composing with APIs, tools, or internal logic**
-* **Collaborating in a visual or programmatic canvas**
-* **Deploying across cloud, local, edge, or hybrid environments**
-
-Think of it as an OS for AI-native systems — built to empower teams serious about production-grade AI.
-
----
-
-**Built for the next generation of AI-native development.**
-
-*→ Powered by agents. Designed for scale. Built by Hexel Studio.*
+**A structured operating layer for the agent-driven future.**
