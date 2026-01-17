@@ -5,105 +5,58 @@
 **Hexel Studio builds production-grade autonomous AI systems.**  
 > Not demos. Not prompt experiments. Not fragile workflows.
 
-We design and operate **agent-native infrastructure** and **end-to-end autonomous systems** that execute real business work with reliability, auditability, and scale.
-
-Our focus is where AI actually breaks: long-running execution, coordination, observability, and governance.
+We design and operate AI systems that perform real work in production environments. Our focus is on reliability, control, and scale—building systems that can be trusted to run continuously and handle complex workflows without constant human intervention.
 
 ---
 
 ## What Hexel Studio Is
 
-Hexel Studio is an **AI systems engineering company**.
+Hexel Studio is an AI systems engineering company focused on turning autonomous agents into dependable infrastructure. We work at the systems level, where execution, coordination, and governance matter more than surface-level intelligence.
 
-We build infrastructure and autonomous agents that:
-- Run **stateful, long-lived workflows**
-- Execute deterministically under policy control
-- Operate across cloud and hybrid environments
-- Produce full audit trails for every action
-
-These systems are designed to run **24/7 in production**, not in notebooks or demos.
+Our work targets long-running and mission-critical use cases, where AI must behave predictably, remain observable, and operate safely across cloud and hybrid environments.
 
 ---
 
 ## What We Build
 
-### Agent Infrastructure
-Core runtime, orchestration, and observability layers for operating autonomous agents in production.
+We build agent-native platforms and autonomous systems designed to replace or run core operational workflows. These systems are engineered to coordinate multiple agents, interact with tools and data, and execute multi-step processes over extended periods of time.
 
-Includes:
-- Deterministic agent execution engines
-- Secure tool and action sandboxes
-- Policy-driven control planes
-- End-to-end observability and audit logs
-- Failure handling and recovery
-
----
-
-### Vertical Autonomous Systems
-Purpose-built agent systems for complex enterprise workflows, including:
-- Compliance and audit operations
-- Knowledge and research automation
-- Internal tools and operational workflows
-- Multi-step decision and execution pipelines
-
-These systems **replace manual work**, not just assist it.
-
----
-
-### Agent Cloud & Deployment Platform
-A managed environment to deploy, govern, and scale agent-based systems across organizations.
-
-Designed for:
-- Multi-tenant operation
-- Strong isolation and security boundaries
-- Governance, permissions, and cost visibility
-- Enterprise-grade reliability
+Our platforms are designed for production use, with strong emphasis on control, visibility, and operational stability.
 
 ---
 
 ## How We Think
 
-Our architecture is guided by a few non-negotiable principles:
+We believe AI systems should be engineered like infrastructure, not experiments. Control and execution are treated as separate concerns, and every system is designed to be inspectable, auditable, and resilient by default.
 
-- **Control ≠ Execution**  
-- **Agents ≠ Services**  
-- **Infrastructure is replaceable**  
-- **Everything is observable**  
-- **Every action is auditable**  
-- **Reliability beats novelty**
-
-If a system cannot be inspected, reasoned about, and trusted — it is not production-ready.
+If an AI system cannot be understood, monitored, or trusted, it does not belong in production.
 
 ---
 
 ## Who This Is For
 
-Hexel Studio works with:
-- Teams building serious AI products
-- Enterprises automating real operational workflows
-- Founders deploying AI systems that must not fail silently
+Hexel Studio works with teams and organizations that want AI to reliably run parts of their business. This includes companies replacing manual processes, building serious AI products, or deploying autonomous systems in operational environments.
 
-If you are experimenting, prototyping, or chasing demos — this is not for you.  
-If you are deploying AI to **run parts of your business**, we should talk.
+If you are exploring ideas or running experiments, this may not be the right fit. If you are deploying AI to do real work at scale, we should talk.
 
 ---
 
 ## In One Line
 
-**Hexel Studio builds AI systems that do work — reliably, repeatedly, and at scale.**
+**Hexel Studio builds AI systems that do work—reliably, repeatedly, and at scale.**
 
 ---
 
 ## Status
 
-Hexel Studio is actively building and deploying autonomous systems in production.  
-Select components and documentation will be open-sourced as they mature.
+Hexel Studio is actively building and deploying autonomous AI systems in production.  
+Select components and documentation may be released publicly over time.
 
 ---
 
 ## Contact
 
-For partnerships, enterprise work, or deep technical discussions:
+For partnerships, enterprise work, or technical discussions:
 
-**Email:** hello@hexel.studio  
-**Website:** https://hexel.studio
+**Email:** hi@hexelstudio.com  
+**Website:** https://hexelstudio.com
