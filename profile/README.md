@@ -2,7 +2,10 @@
 
 [![SPONSORED BY E2B FOR STARTUPS](https://img.shields.io/badge/SPONSORED%20BY-E2B%20FOR%20STARTUPS-ff8800?style=for-the-badge)](https://e2b.dev/research)
 
-Hexel Studio is an AI engineering company that designs and operates production-grade autonomous agent systems for real-world business workflows. We work with teams that require AI systems to be reliable, auditable, and scalable — not demos or prompt-driven experiments.
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hexel-studio)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hexelstudio)
+
+Hexel Studio is an AI engineering company that designs and operates production-grade autonomous agent systems for real-world business workflows.
 
 Our platform is built around **agent-native infrastructure**, enabling multiple AI agents to coordinate, use tools, reason over data, and execute long-running tasks across cloud and hybrid environments with predictable, deterministic behavior. We focus on the hard problems of execution, control, and observability that arise when AI systems move from experimentation into production.
 
